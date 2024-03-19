@@ -7,7 +7,7 @@
     <link rel="icon" href="" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <title>How to partially hide email address in PHP using AJAX - Coding Birds Online</title>
+    <title>How to partially hide email address in PHP using AJAX</title>
     <style>.required{color: #FF0000;}</style>
 </head>
 <body>
